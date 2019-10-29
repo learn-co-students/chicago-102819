@@ -24,7 +24,8 @@
 
     https://raw.githubusercontent.com/vega/vega/master/docs/data/sp500.csv
     What is the high point? What is the low point?     
-                           https://raw.githubusercontent.com/vega/datalib/master/test/data/stocks.csv
+    
+    https://raw.githubusercontent.com/vega/datalib/master/test/data/stocks.csv
     How many observations of each unique stock?
     
     http://www.gutenberg.org/cache/epub/5200/pg5200.txt
