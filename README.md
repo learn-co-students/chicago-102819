@@ -11,7 +11,8 @@ Welcome to the class! We're SO EXCITED to have you here 😊
 
 - Fork this GitHub repo `learn-co-students/chicago-102819` to `<your_github_username>/chicago-102819`.
 ![Forking a github Repo](https://help.github.com/assets/images/help/repository/fork_button.jpg)
-(If you still need help, here are [more resources](https://help.github.com/en/github/getting-started-with-github/fork-a-repo))
+
+If you still need help with forking a github repo, here are [more resources](https://help.github.com/en/github/getting-started-with-github/fork-a-repo).
 
 In the terminal, `cd` inside the directory you are going to keep this program's files and work.
 
