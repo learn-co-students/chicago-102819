@@ -104,7 +104,7 @@ Be prepared to answer questions such as:
 - Group A: Gideon + Dayana
 - Group B: Ben + Andrew
 - Group C: David + Mukesh
-- Group D: Garret + Jos,
+- Group D: Garret + Joseph
 - Group E: Ibi+ Rob + Will
 - Group F: Syd + Irvin
 
